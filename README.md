@@ -1,4 +1,4 @@
-# bikram-mahour
+# bikram
 ## 👋 About Me
 
 Hi, I am **Bikram**, a BCA student.
